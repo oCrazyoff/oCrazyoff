@@ -4,8 +4,8 @@
 - 📫 Email para contato: walyssonribeiro3@gmail.com
 ##
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oCrazyoff&show_icons=true&theme=tokyonight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCrazyoff&layout=compact&theme=tokyonight">
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=oCrazyoff&show_icons=true&theme=tokyonight">
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oCrazyoff&layout=compact&theme=tokyonight">
 </div>
 
 ##
