@@ -19,5 +19,5 @@
 </div>
 
 <div>
-<img alt="github-snake" src="https://raw.githubusercontent.com/oCrazyoff/oCrazyoff/output/github-snake.svg" style="visibility:visible;max-width:100%;">
+<img alt="github-snake" src="github-user-contribution.svg" style="visibility:visible;max-width:100%;">
 </div>
