@@ -17,3 +17,7 @@
                 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
 </div>
+
+<div>
+<img alt="github-snake" src="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake.svg" style="visibility:visible;max-width:100%;">
+</div>
